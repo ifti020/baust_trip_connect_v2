@@ -7,6 +7,14 @@ Built with **Vue.js (Frontend)**, **Spring Boot (Backend)**, and **PostgreSQL (D
 
 ---
 
+## 🎥 Project Demo
+
+Watch the full system workflow (Admin role management, staff bus assignment, and real-time live tracking):
+
+https://github.com/user-attachments/assets/4a179230-0994-4cee-a7c0-85606ed3e017
+
+
+
 ## ✨ Features
 
 - Real-time bus location tracking using mobile latitude/longitude updates
@@ -61,3 +69,4 @@ Passengers use a responsive interface to track buses, view routes, receive notif
 ## 📖 Summary
 
 **BAUST Trip Connect** was designed to solve campus transportation challenges by integrating live tracking, secure access, and centralized management. It improves coordination among stakeholders, reduces uncertainty, and delivers a modern solution for campus mobility.
+
